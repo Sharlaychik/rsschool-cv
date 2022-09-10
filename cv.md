@@ -1,4 +1,4 @@
-For rolling-scopes-school task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/cv.md
+>For rolling-scopes-school task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/cv.md
 
 
 ![](GubkaBob.jpg)
@@ -12,6 +12,7 @@ For rolling-scopes-school task: https://github.com/rolling-scopes-school/tasks/b
 * **Telegram:** @Sharlaychik
 * **LinkedIn:** [www.linkedin.com/in/anton-sharlai-1182b8223](www.linkedin.com/in/anton-sharlai-1182b8223)
 * **Discord:** @Sharlaychik (Anton Sharlai)
+
 ---
 ### Briefly About Myself #
 _I am 37 years old. I have always liked programming, robotics, radio electronics. I got acquainted with Arduino and unlimited possibilities through programming. Now I decided to completely plunge into the world of programming and automation. Decided to start with Front End. And in the future I will study Beck End, for a complete understanding of all the details of the automation process. I studied everything on my own and realized that I finally found what I like to do all the time._
