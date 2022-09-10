@@ -1,3 +1,4 @@
+![](GubkaBob.jpg)
 # Sharlai Anton #
 ### Junior Front-End Developer
 
